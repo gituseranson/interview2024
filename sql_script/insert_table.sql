@@ -1,0 +1,1 @@
+COPY landing_client_data.clients FROM 'MOCK_DATA.csv' WITH (FORMAT csv, HEADER true); --update the data path
